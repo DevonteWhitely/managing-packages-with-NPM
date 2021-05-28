@@ -1,6 +1,7 @@
 {
 	"author": "Devonte Whitely",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is the description.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
