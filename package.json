@@ -1,7 +1,8 @@
 {
 	"author": "Devonte Whitely",
 	"name": "fcc-learn-npm-package-json",
-	"description": "This is the description.",
+	"description": "Managing packages with NPM on freeCodeCamp",
+	"keywords": ["freecodecamp", "managing-packages", "NPM"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
